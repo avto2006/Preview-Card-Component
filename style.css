@@ -1,0 +1,83 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.cardBox {
+    width: 350px;
+    height: 630px;
+    background-color:  hsl(216, 50%, 16%);
+    border-radius: 15px;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 90px;
+    box-sizing: border-box;
+}
+
+.img1 {
+    width: 302px;
+    height: 302px;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+h2 {
+   color: #ffffff;
+   padding-left: 30px;
+   font-weight: 600;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    padding-left: 30px;
+    font-weight: 400;
+}
+
+.smallBox {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.pp2,.pp3 {
+    padding-left: 10px;
+}
+
+.pp2{
+    color:  hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+
+.img3 {
+    padding-left: 90px;
+}
+
+.hhr {
+    width: 300px;
+    border: 1px #2E405A solid;
+}
+
+.avtorBox {
+    display: flex;
+    width: 300px;
+    height: 33px;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.img4 {
+    border: 2px white solid;
+    width: 33px;
+    height: 33px;
+    border-radius: 20px;
+    margin-left: 24px;
+}
+
+.pp4{
+    margin: 0;
+}
+
+.avtorBox p span {
+    color: #ffffff;
+}
